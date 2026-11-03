@@ -15,5 +15,5 @@ def data_ingestion():
        'Fine Aggregate (component 7)(kg in a m^3 mixture)', 'Age (day)',
   --------------------------------------------------------------
   '''
-  df = pd.read_csv('/content/Concrete_Data - Concrete_Data.csv')
+  df = pd.read_csv('C:\\CompositeCementStrength_PredictionModel\\data\\Concrete_Data - Concrete_Data.csv')
   return df

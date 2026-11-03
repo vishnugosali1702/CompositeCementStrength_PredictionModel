@@ -1,4 +1,5 @@
-# step 1 data ingestion 
+import pandas as pd
+
 # Step 1 : Data Ingestion
 def data_ingestion():
   '''
